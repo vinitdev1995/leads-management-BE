@@ -1,0 +1,42 @@
+{
+  "leads": [
+    {
+      "id": "9c694f47-6139-46fe-8125-5bfb133c720d",
+      "name": "Oleg Lang",
+      "company": "Varna",
+      "email": "mogaky@mailinator.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "18c01356-012d-49f2-a1d8-dbb55d550366",
+      "name": "Voltas",
+      "company": "Reokaspar",
+      "email": "reo@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "6eb1ab4f-7add-47e6-b45c-c1933990b983",
+      "name": "Noval",
+      "company": "Bolta",
+      "email": "abc@gamil.com",
+      "status": "Active"
+    },
+    {
+      "id": "223d7253-6fc3-43d7-9d40-e6cd0f4cf90c",
+      "name": "Mira Kapoor",
+      "company": "TechNova",
+      "email": "mira.kapoor@example.com",
+      "status": "Active"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2a$12$CB92j3kEpC6v8gOQwYc9Aud99TGcFPYnRqf2y.O61zJeWH5qNdivW",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "createdAt": "2025-11-17T05:30:00.000Z"
+    }
+  ]
+}
